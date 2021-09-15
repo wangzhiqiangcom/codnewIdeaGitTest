@@ -17,6 +17,6 @@
   <p>this is hot-fix branch second commit</p>
   <p>this is third commit</p>
   <p>push by idea2019</p>
-  <p>pull on github wangzhiqiangcom@163.com</p>
+  <p>pull on github wangzhiqiangcom@163.com codnewIdeaGitTest</p>
   </body>
 </html>
